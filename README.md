@@ -18,5 +18,9 @@ Learning CSS can be frustrating. But it is an important skill for any developer.
 - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 - [The Box Model](https://www.theodinproject.com/lessons/foundations-the-box-model)
 - [CSS Margin](https://css-tricks.com/almanac/properties/m/margin/) An in-depth article of the behaviour of margin property
+- [CSS Inline vs Inline-Block vs Block](https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/)
+- [Block vs Inline](https://www.theodinproject.com/lessons/foundations-block-and-inline)
+- [Exercises on Box Model](https://github.com/TheOdinProject/css-exercises/tree/main/margin-and-padding)
+
 
 
